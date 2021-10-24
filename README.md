@@ -24,7 +24,7 @@ This is the website for artifact evaluation of ICSE2022-SEIS sumbission 39: Path
 **EmpInvestigation** contains the version update logs and app UI screenshots we record during our inspection. We anoynomize them by masking identity-revealing information. These materials are used in EMPIRICAL INVESTIGATION BASED ON INSPECTION OF APP ADAPTATION (section 4).
 
 1. ​		For version update logs, we use keywords '老年', '老人', '大字', '亲情' (represent elderly in Chinese) to find out whether the app has undergone adaptation.
-2. ​		In **AppScreenshot.zip**, each folder in it represents an inspection of a app (specified by the folder name). before_i and after_i represent the adapted app's UI screen and the original app's UI screen in the same scenario i.
+2. ​		In **AppScreenshot**, each folder in it represents an inspection of a app (specified by the folder name). before_i and after_i represent the adapted app's UI screen and the original app's UI screen in the same scenario i.
 
 
 
